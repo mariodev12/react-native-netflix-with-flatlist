@@ -1,6 +1,6 @@
 # React Native - FlatList with Netflix Style
 
-![alt tag](https://im2.ezgif.com/tmp/ezgif-2-190d66ecb3.gif)
+![alt tag](https://media.giphy.com/media/brl8sqs8xTWrS/giphy.gif)
 
 ## Getting Started
 
